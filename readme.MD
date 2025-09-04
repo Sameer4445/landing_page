@@ -26,4 +26,5 @@ If not, you can include screenshots of the final result in the **Output Screensh
    - Prepared README.md with project summary and workflow steps (this file).
 
 ##  Output Screenshot
-landing.png
+![Tesla Landing Page](screenshot.png)
+
